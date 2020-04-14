@@ -1,0 +1,27 @@
+body {
+    background-color:antiquewhite;
+}
+
+h1 { 
+    font-size: 40;    
+    color: black;
+    text-align: initial;
+}
+
+h2 {
+    font-size: 30;
+    color: black;
+    text-align: initial;
+}
+
+h3 {
+    font-size: 20;
+    color: red; 
+    text-align: center; 
+}
+
+h4 {
+    font-size: 30;
+    color: blueviolet; 
+    text-align: center; 
+}
