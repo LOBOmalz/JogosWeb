@@ -13,6 +13,6 @@
 
 [Tarefa Dia31-03-2020p2](https://lobomalz.github.io/JogosWeb/TarefaDia31-03-2020p2.html)
 
-[Tarefa Dia07-04-2020](https://lobomalz.github.io/JogosWeb/TarefaDia07-04-2020.htmll)
+[Tarefa Dia07-04-2020](https://lobomalz.github.io/JogosWeb/TarefaDia07-04-2020.html)
 
 [Tarefa Dia05-05-2020](https://lobomalz.github.io/JogosWeb/TarefaDia05-05-2020.html)
