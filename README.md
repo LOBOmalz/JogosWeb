@@ -4,7 +4,7 @@
 
 [Tarefa HTML](https://lobomalz.github.io/JogosWeb/Screenshot_63.png)
 
-[Tarefa Dia24-03-2020](https://lobomalz.github.io/JogosWeb/TarefaDia24-03-2020.html)(https://lobomalz.github.io/JogosWeb/Screenshot_63.png)
+[Tarefa Dia24-03-2020](https://lobomalz.github.io/JogosWeb/TarefaDia24-03-2020.html; https://lobomalz.github.io/JogosWeb/Screenshot_63.png)
 
 [Tarefa Dia31-03-2020](https://lobomalz.github.io/JogosWeb/TarefaDia31-03-2020.html)
 
